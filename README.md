@@ -1,1 +1,3 @@
 # learner
+ls
+pwd
