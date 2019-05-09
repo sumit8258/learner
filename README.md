@@ -4,5 +4,6 @@ pwd
 
 print class interval
 {
+a=10
 
 }
