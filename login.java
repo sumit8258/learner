@@ -1,7 +1,10 @@
 class initialise
 
          {
-         int a=20
+
+         int a=25
+
+        
 
       class static void (echo int)
 
