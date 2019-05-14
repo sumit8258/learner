@@ -1,4 +1,7 @@
 class Simple{
+
+    int a=10
+    int b=10
     c=12
     d=15
     e=c+d  
